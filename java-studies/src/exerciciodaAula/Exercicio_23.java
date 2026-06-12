@@ -9,11 +9,9 @@ public class Exercicio_23 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        //Criando variáveis
         double saldo = 0.0;
         double deposito, sacar;
 
-        // O while mantém rodando até o Usuária(o) informa a opção 4 - Sair
         while (true) {
             System.out.println("\n*------MENU------*");
             System.out.println("1 - Consultar Saldo");
@@ -40,7 +38,6 @@ public class Exercicio_23 {
                     System.out.println("Qual valor deseja Sacar:");
                     sacar = sc.nextDouble();
 
-                    //Valida o Saque: caso o saque seja maior que o saldo, não permitir
                     if (sacar > saldo) {
                         System.out.println("Saldo insuficiente");
                     } else {
