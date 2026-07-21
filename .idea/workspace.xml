@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49c482c9-dc4f-41ed-98aa-4ff25d03304c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/java-studies/out/production/Java-studies/exerciciodaAula/Exercicio_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-studies/out/production/Java-studies/exerciciodaAula/Exercicio_09.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;danmessias-dev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/danmessias-dev/java-studies.git&quot;,
+    &quot;accountId&quot;: &quot;df164acb-6f9d-4afd-aba1-46e06ae319cc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3D3QBfPzgat5wczEOOz7nWbNPoQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Exercicio_00.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Exercicio_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_07.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Exercicio_08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/_CURSANDO/Udemy/_Java/java-studies&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Aulas Udemy/Java/Exercicios_com_IA/Exercicio_09/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Exercicio_28">
+    <configuration name="Exercicio_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciciodaAula.Exercicio_24" />
+      <module name="Java-studies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exerciciodaAula.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciciodaAula.Exercicio_25" />
+      <module name="Java-studies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exerciciodaAula.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciciodaAula.Exercicio_26" />
+      <module name="Java-studies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exerciciodaAula.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciciodaAula.Exercicio_28" />
+      <module name="Java-studies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exerciciodaAula.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="java-studies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="java-studies" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercicio_28" />
+        <item itemvalue="Application.Exercicio_26" />
+        <item itemvalue="Application.Exercicio_24" />
+        <item itemvalue="Application.Exercicio_25" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49c482c9-dc4f-41ed-98aa-4ff25d03304c" name="Changes" comment="" />
+      <created>1777508141751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777508141751</updated>
+    </task>
+    <servers />
+  </component>
+</project>
